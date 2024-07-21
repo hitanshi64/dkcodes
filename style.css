@@ -1,0 +1,139 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+
+.main{
+    height: 109vh;
+    width: 100%;
+    background-image: url(1.jpg);
+    background-position: top center;
+    background-size: cover;
+    
+}
+
+.navbar{
+
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color:darkgreen;
+    font-size: 40px;
+    padding-top: 15px;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+ul li{
+    margin-left: 70px;
+    margin-top: 27px;
+    font-size: 15px;
+    }
+
+ul li a{
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    text-decoration:none;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color:burlywood;
+}
+
+.content{
+    width: 1200px;
+    font-size: large;
+    padding-left: 75px;
+    margin-top: 30px;
+    color:darkgray ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.def{
+    
+}
+
+.par{
+    padding-left: 80px;
+    padding-top: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: darkgray;
+}
+.a{
+    padding-left: 80px;
+    color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    width: 1200px;
+
+    
+}
+.b{
+    
+    color: darkgray;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    
+    width: 1200px;
+
+}
+.c{
+    color: darkgray;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    
+    float: left;
+    width: 1200px;
+}
+
+.d{
+    padding-left:  75px;
+    color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    float: left;
+    width: 1200px;
+}
+
+.e{
+   
+   letter-spacing: 1px;
+   padding-top: 35px;
+}
